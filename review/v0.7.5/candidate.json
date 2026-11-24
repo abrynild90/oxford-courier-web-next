@@ -1,0 +1,379 @@
+{
+  "phase": "candidate",
+  "url": "http://127.0.0.1:8879/",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "views": [
+    {
+      "id": "south-tower",
+      "site": "South Oxford Center",
+      "tile": "-1_3",
+      "asset": "streets/-1_3.glb",
+      "focus": [
+        -199.8,
+        2115
+      ],
+      "eye": [
+        -199.8,
+        5.5,
+        2115
+      ],
+      "look": [
+        -201.5,
+        10.5,
+        2029
+      ],
+      "fov": 43,
+      "note": "A view from the south shows both brick projections and the arched glass entrance.",
+      "eyeWorld": [
+        -199.8,
+        137.459,
+        2115
+      ],
+      "targetWorld": [
+        -201.5,
+        142.689375,
+        2029
+      ],
+      "dusk": false,
+      "registeredCount": 26,
+      "groundBelowEye": 131.959,
+      "cameraRestored": true,
+      "distanceM": 86.17567419313077,
+      "file": "south-tower-day.jpg"
+    },
+    {
+      "id": "south-tower",
+      "site": "South Oxford Center",
+      "tile": "-1_3",
+      "asset": "streets/-1_3.glb",
+      "focus": [
+        -199.8,
+        2115
+      ],
+      "eye": [
+        -199.8,
+        5.5,
+        2115
+      ],
+      "look": [
+        -201.5,
+        10.5,
+        2029
+      ],
+      "fov": 43,
+      "note": "A view from the south shows both brick projections and the arched glass entrance.",
+      "eyeWorld": [
+        -199.8,
+        137.459,
+        2115
+      ],
+      "targetWorld": [
+        -201.5,
+        142.689375,
+        2029
+      ],
+      "dusk": true,
+      "registeredCount": 26,
+      "groundBelowEye": 131.959,
+      "cameraRestored": true,
+      "distanceM": 86.17567419313077,
+      "file": "south-tower-dusk.jpg"
+    },
+    {
+      "id": "south-massing",
+      "site": "South Oxford Center",
+      "tile": "-1_3",
+      "asset": "streets/-1_3.glb",
+      "focus": [
+        -25,
+        2170
+      ],
+      "eye": [
+        -25,
+        40,
+        2170
+      ],
+      "look": [
+        -144,
+        8,
+        2010
+      ],
+      "fov": 45,
+      "note": "The elevated southeast view shows the retained mass and the extent of the cleared south wing.",
+      "eyeWorld": [
+        -25,
+        170.185,
+        2170
+      ],
+      "targetWorld": [
+        -144,
+        137.8375,
+        2010
+      ],
+      "dusk": false,
+      "registeredCount": 26,
+      "groundBelowEye": 130.185,
+      "cameraRestored": true,
+      "distanceM": 202.008318532307,
+      "file": "south-massing-day.jpg"
+    },
+    {
+      "id": "south-massing",
+      "site": "South Oxford Center",
+      "tile": "-1_3",
+      "asset": "streets/-1_3.glb",
+      "focus": [
+        -25,
+        2170
+      ],
+      "eye": [
+        -25,
+        40,
+        2170
+      ],
+      "look": [
+        -144,
+        8,
+        2010
+      ],
+      "fov": 45,
+      "note": "The elevated southeast view shows the retained mass and the extent of the cleared south wing.",
+      "eyeWorld": [
+        -25,
+        170.185,
+        2170
+      ],
+      "targetWorld": [
+        -144,
+        137.8375,
+        2010
+      ],
+      "dusk": true,
+      "registeredCount": 26,
+      "groundBelowEye": 130.185,
+      "cameraRestored": true,
+      "distanceM": 202.008318532307,
+      "file": "south-massing-dusk.jpg"
+    },
+    {
+      "id": "flamingo-street",
+      "site": "Flamingo Apartments",
+      "tile": "-1_0",
+      "asset": "streets/-1_0.glb",
+      "focus": [
+        -138.6,
+        287.8
+      ],
+      "eye": [
+        -138.6,
+        2,
+        287.8
+      ],
+      "look": [
+        -132.18,
+        3.04,
+        269.42
+      ],
+      "fov": 46,
+      "note": "University Avenue view of the full street-facing building and its offset volumes.",
+      "eyeWorld": [
+        -138.6,
+        152.95375,
+        287.8
+      ],
+      "targetWorld": [
+        -132.18,
+        154.8318,
+        269.42
+      ],
+      "dusk": false,
+      "registeredCount": 102,
+      "groundBelowEye": 150.95375,
+      "cameraRestored": true,
+      "distanceM": 19.55934231518278,
+      "file": "flamingo-street-day.jpg"
+    },
+    {
+      "id": "flamingo-street",
+      "site": "Flamingo Apartments",
+      "tile": "-1_0",
+      "asset": "streets/-1_0.glb",
+      "focus": [
+        -138.6,
+        287.8
+      ],
+      "eye": [
+        -138.6,
+        2,
+        287.8
+      ],
+      "look": [
+        -132.18,
+        3.04,
+        269.42
+      ],
+      "fov": 46,
+      "note": "University Avenue view of the full street-facing building and its offset volumes.",
+      "eyeWorld": [
+        -138.6,
+        152.95375,
+        287.8
+      ],
+      "targetWorld": [
+        -132.18,
+        154.8318,
+        269.42
+      ],
+      "dusk": true,
+      "registeredCount": 102,
+      "groundBelowEye": 150.95375,
+      "cameraRestored": true,
+      "distanceM": 19.55934231518278,
+      "file": "flamingo-street-dusk.jpg"
+    },
+    {
+      "id": "flamingo-closeup",
+      "site": "Flamingo Apartments",
+      "tile": "-1_0",
+      "asset": "streets/-1_0.glb",
+      "focus": [
+        -138.2,
+        279.9
+      ],
+      "eye": [
+        -138.2,
+        1.9,
+        279.9
+      ],
+      "look": [
+        -132.5,
+        3.26,
+        270.2
+      ],
+      "fov": 52,
+      "note": "Sidewalk view of the front opening rhythm, trim and porch details.",
+      "eyeWorld": [
+        -138.2,
+        152.92312500000003,
+        279.9
+      ],
+      "targetWorld": [
+        -132.5,
+        155.006875,
+        270.2
+      ],
+      "dusk": false,
+      "registeredCount": 102,
+      "groundBelowEye": 151.02312500000002,
+      "cameraRestored": true,
+      "distanceM": 11.442115803578444,
+      "file": "flamingo-closeup-day.jpg"
+    },
+    {
+      "id": "flamingo-closeup",
+      "site": "Flamingo Apartments",
+      "tile": "-1_0",
+      "asset": "streets/-1_0.glb",
+      "focus": [
+        -138.2,
+        279.9
+      ],
+      "eye": [
+        -138.2,
+        1.9,
+        279.9
+      ],
+      "look": [
+        -132.5,
+        3.26,
+        270.2
+      ],
+      "fov": 52,
+      "note": "Sidewalk view of the front opening rhythm, trim and porch details.",
+      "eyeWorld": [
+        -138.2,
+        152.92312500000003,
+        279.9
+      ],
+      "targetWorld": [
+        -132.5,
+        155.006875,
+        270.2
+      ],
+      "dusk": true,
+      "registeredCount": 102,
+      "groundBelowEye": 151.02312500000002,
+      "cameraRestored": true,
+      "distanceM": 11.442115803578444,
+      "file": "flamingo-closeup-dusk.jpg"
+    }
+  ],
+  "errors": [],
+  "assets": [
+    [
+      "http://127.0.0.1:8879/data/stream/courier.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-1_4.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-1_3.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-1_0.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/0_0.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-1_1.glb",
+      200
+    ]
+  ],
+  "targetAssetSHA256": {
+    "-1_3": "722539d503f1ac7091b108e98d563f3f03d94ce8230e8bdb1d8255ece21626dc",
+    "-1_0": "11ad13dae681d4c06dbb8f646c8927cdc6ab5e91c815ba1c338e27c35f7a1b34"
+  },
+  "gameSHA256": "5c9c383ec0464b1775cace2998d38df1c38cb367684cfcee7d0d8a8182f3945f",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36"
+}

@@ -1,0 +1,64 @@
+{
+  "format": "oxford-ecology-v1",
+  "treeRecords": 233157,
+  "treeRadiiWritten": 233157,
+  "fallbackCount": 359,
+  "fallbackPercent": 0.154,
+  "radiusMeters": {
+    "p10": 4.5,
+    "median": 6.8,
+    "p90": 7.5,
+    "min": 1.4,
+    "max": 7.5
+  },
+  "atSpatialCapPercent": 41.05,
+  "understory": {
+    "patchCount": 11365,
+    "eligibleCanopyTrees": 51186,
+    "densityRule": "Existing LiDAR/aerial canopy candidates with at least three additional tree candidates within 22 m; deterministic 22% subset. Each patch is centered on an existing canopy point, so road/building clearance is retained. Small, low-alpha leaf-litter and shrub sprites follow sampled DEM ground and add no collision."
+  },
+  "legacyHeightScaledRadiusMeters": {
+    "p10": 6.03,
+    "median": 9.63,
+    "p90": 12.51
+  },
+  "tileFiles": 805,
+  "treeCoordinateOrder": "Each tile treeRadiusDm entry aligns by index with public/data/tiles/<tile>.json trees; existing x,z coordinates are unchanged.",
+  "water": {
+    "shippedSurfaceFragments": 602,
+    "mappedAreaM2": 2449458.9,
+    "rendering": "Each OSM water polygon is triangulated with holes preserved and subdivided to at most 10 m edges. A per-vertex shore-distance field feeds a smooth fragment color/alpha transition; subtle two-direction world-space wind ripples deform normals and fade with camera distance (72\u2013148 m). Water level follows the low 5th percentile of DEM shoreline samples, capped to 0.22 m above the lowest sample."
+  },
+  "method": "At each existing tree coordinate, sample 8 radial LiDAR canopy-height profiles at 2 m intervals; estimate the outer crown at 42% of local peak height, median the eight directions, and cap merged crowns at 42% of nearest-tree spacing (maximum radius 7.5 m). Quantize radius to 0.1 m.",
+  "sources": [
+    {
+      "name": "USGS 3DEP Mississippi Delta A1 2018 LiDAR, height above ground",
+      "url": "https://s3-us-west-2.amazonaws.com/usgs-lidar-public/MS_MississippiDelta_A1_2018",
+      "local": "cache/canopy.npy",
+      "resolutionMeters": 2,
+      "referenceDate": "2018 project survey"
+    },
+    {
+      "name": "USGS 3DEP 1/3 arc-second elevation",
+      "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/13/TIFF/current/n35w090/USGS_13_n35w090.tif",
+      "local": "public/data/height.bin",
+      "referenceDate": "DEM source tile; publication date not encoded locally"
+    },
+    {
+      "name": "USGS National Map NAIP imagery",
+      "url": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer",
+      "local": "public/data/aerial/*.jpg",
+      "referenceDate": "imagery acquisition date is not encoded in the cached tile metadata"
+    },
+    {
+      "name": "LiDAR canopy maxima filtered using NAIP green-channel evidence and OSM building/road clearances",
+      "local": "tools/refine.py; public/data/tiles/*.json",
+      "referenceDate": "LiDAR 2018; NAIP acquisition date unavailable in the cached image tiles"
+    },
+    {
+      "name": "OpenStreetMap water polygons retained in the city tiles",
+      "local": "cache/osm.json; public/data/tiles/*.json",
+      "referenceDate": "source snapshot date not encoded in the local extract"
+    }
+  ]
+}

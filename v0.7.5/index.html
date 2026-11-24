@@ -1,0 +1,10 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Oxford Courier</title><link rel="icon" href="icon.png" type="image/png"><link rel="stylesheet" href="style.css"></head><body>
+<main id="view" aria-label="Oxford driving world"></main>
+<header><div class="wordmark"><span class="monogram">OC</span><span>Oxford <i>Courier</i></span></div><div class="location"><span class="dot"></span><span id="district">Courthouse Square</span></div></header>
+<section class="route hidden" id="route"><span id="turn">↗</span><div><small id="routelabel">NEXT TURN</small><strong id="instruction"></strong><span id="remaining"></span></div></section>
+<section id="status"><small id="state">FREE EXPLORATION</small><h1 id="street">Courthouse Square</h1><div id="hint">Drive through Oxford or pick up a courier shift.</div></section>
+<aside id="instruments"><canvas id="mini" width="396" height="242" aria-label="Local street map"></canvas><div class="readout"><span id="mode">DRIVE</span><strong id="speed">0</strong><small id="unit">MPH</small></div></aside>
+<nav><button data-action="shift"><kbd>J</kbd> Dispatch</button><button data-action="map"><kbd>M</kbd> Map</button><button data-action="use"><kbd>E</kbd> <span id="useLabel">Exit car</span></button><button data-action="help"><kbd>?</kbd> Controls</button></nav>
+<div id="notice" role="status"></div><div id="loading"><div class="intro">Oxford <i>Courier</i></div><p>Loading the Square…</p></div>
+<dialog id="panel"><div id="dialogContent"></div><button id="close" aria-label="Close">×</button></dialog>
+<script src="game.js"></script></body></html>

@@ -1,0 +1,6 @@
+[
+  {"id":"south-tower","site":"South Oxford Center","tile":"-1_3","asset":"streets/-1_3.glb","focus":[-199.8,2115],"eye":[-199.8,5.5,2115],"look":[-201.5,10.5,2029],"fov":43,"note":"A view from the south shows both brick projections and the arched glass entrance."},
+  {"id":"south-massing","site":"South Oxford Center","tile":"-1_3","asset":"streets/-1_3.glb","focus":[-25,2170],"eye":[-25,40,2170],"look":[-144,8,2010],"fov":45,"note":"The elevated southeast view shows the retained mass and the extent of the cleared south wing."},
+  {"id":"flamingo-street","site":"Flamingo Apartments","tile":"-1_0","asset":"streets/-1_0.glb","focus":[-138.6,287.8],"eye":[-138.6,2,287.8],"look":[-132.18,3.04,269.42],"fov":46,"note":"University Avenue view of the full street-facing building and its offset volumes."},
+  {"id":"flamingo-closeup","site":"Flamingo Apartments","tile":"-1_0","asset":"streets/-1_0.glb","focus":[-138.2,279.9],"eye":[-138.2,1.9,279.9],"look":[-132.5,3.26,270.2],"fov":52,"note":"Sidewalk view of the front opening rhythm, trim and porch details."}
+]
