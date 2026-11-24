@@ -1,0 +1,5 @@
+[
+ {"id":"kennon-east","site":"Kennon Observatory","tile":"-4_0","asset":"streets/-4_0.glb","focus":[-1642,246],"eye":[-1619.5,1.9,234.8],"look":[-1634.15,5.6,238.4],"fov":43,"note":"East window, center crossbar, sill and nearby portico return from walking height."},
+ {"id":"kennon-south","site":"Kennon Observatory","tile":"-4_0","asset":"streets/-4_0.glb","focus":[-1642,246],"eye":[-1649.1,1.9,264.9],"look":[-1643.5,5.25,244.8],"fov":43,"note":"Approach toward the south portico and central doorway, with both domes above."},
+ {"id":"thompson-wrap","site":"Thompson House","tile":"-1_-1","asset":"streets/-1_-1.glb","focus":[-13,-12],"eye":[4.5,2.15,5.9],"look":[-13.5,5.25,-12.6],"fov":48,"note":"Courthouse Square corner view of the wraparound gallery and retail bays."}
+]

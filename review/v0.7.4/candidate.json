@@ -1,0 +1,498 @@
+{
+  "phase": "candidate",
+  "url": "http://127.0.0.1:8879/",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "views": [
+    {
+      "id": "kennon-east",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1619.5,
+        1.9,
+        234.8
+      ],
+      "look": [
+        -1634.15,
+        5.6,
+        238.4
+      ],
+      "fov": 43,
+      "note": "East window, center crossbar, sill and nearby portico return from walking height.",
+      "eyeWorld": [
+        -1619.5,
+        152.325875,
+        234.8
+      ],
+      "targetWorld": [
+        -1634.15,
+        156.08937500000002,
+        238.4
+      ],
+      "dusk": false,
+      "registeredCount": 31,
+      "groundBelowEye": 150.425875,
+      "cameraRestored": true,
+      "distanceM": 15.548197073937633,
+      "file": "kennon-east-day.jpg"
+    },
+    {
+      "id": "kennon-east",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1619.5,
+        1.9,
+        234.8
+      ],
+      "look": [
+        -1634.15,
+        5.6,
+        238.4
+      ],
+      "fov": 43,
+      "note": "East window, center crossbar, sill and nearby portico return from walking height.",
+      "eyeWorld": [
+        -1619.5,
+        152.325875,
+        234.8
+      ],
+      "targetWorld": [
+        -1634.15,
+        156.08937500000002,
+        238.4
+      ],
+      "dusk": true,
+      "registeredCount": 31,
+      "groundBelowEye": 150.425875,
+      "cameraRestored": true,
+      "distanceM": 15.548197073937633,
+      "file": "kennon-east-dusk.jpg"
+    },
+    {
+      "id": "kennon-south",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1649.1,
+        1.9,
+        264.9
+      ],
+      "look": [
+        -1643.5,
+        5.25,
+        244.8
+      ],
+      "fov": 43,
+      "note": "Approach toward the south portico and central doorway, with both domes above.",
+      "eyeWorld": [
+        -1649.1,
+        149.9215,
+        264.9
+      ],
+      "targetWorld": [
+        -1643.5,
+        155.315375,
+        244.8
+      ],
+      "dusk": false,
+      "registeredCount": 31,
+      "groundBelowEye": 148.0215,
+      "cameraRestored": true,
+      "distanceM": 21.551424257241617,
+      "file": "kennon-south-day.jpg"
+    },
+    {
+      "id": "kennon-south",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1649.1,
+        1.9,
+        264.9
+      ],
+      "look": [
+        -1643.5,
+        5.25,
+        244.8
+      ],
+      "fov": 43,
+      "note": "Approach toward the south portico and central doorway, with both domes above.",
+      "eyeWorld": [
+        -1649.1,
+        149.9215,
+        264.9
+      ],
+      "targetWorld": [
+        -1643.5,
+        155.315375,
+        244.8
+      ],
+      "dusk": true,
+      "registeredCount": 31,
+      "groundBelowEye": 148.0215,
+      "cameraRestored": true,
+      "distanceM": 21.551424257241617,
+      "file": "kennon-south-dusk.jpg"
+    },
+    {
+      "id": "thompson-wrap",
+      "site": "Thompson House",
+      "tile": "-1_-1",
+      "asset": "streets/-1_-1.glb",
+      "focus": [
+        -13,
+        -12
+      ],
+      "eye": [
+        4.5,
+        2.15,
+        5.9
+      ],
+      "look": [
+        -13.5,
+        5.25,
+        -12.6
+      ],
+      "fov": 48,
+      "note": "Courthouse Square corner view of the wraparound gallery and retail bays.",
+      "eyeWorld": [
+        4.5,
+        157.56412500000002,
+        5.9
+      ],
+      "targetWorld": [
+        -13.5,
+        160.370125,
+        -12.6
+      ],
+      "dusk": false,
+      "registeredCount": 50,
+      "groundBelowEye": 155.414125,
+      "cameraRestored": true,
+      "distanceM": 25.963891002698343,
+      "file": "thompson-wrap-day.jpg"
+    },
+    {
+      "id": "thompson-wrap",
+      "site": "Thompson House",
+      "tile": "-1_-1",
+      "asset": "streets/-1_-1.glb",
+      "focus": [
+        -13,
+        -12
+      ],
+      "eye": [
+        4.5,
+        2.15,
+        5.9
+      ],
+      "look": [
+        -13.5,
+        5.25,
+        -12.6
+      ],
+      "fov": 48,
+      "note": "Courthouse Square corner view of the wraparound gallery and retail bays.",
+      "eyeWorld": [
+        4.5,
+        157.56412500000002,
+        5.9
+      ],
+      "targetWorld": [
+        -13.5,
+        160.370125,
+        -12.6
+      ],
+      "dusk": true,
+      "registeredCount": 50,
+      "groundBelowEye": 155.414125,
+      "cameraRestored": true,
+      "distanceM": 25.963891002698343,
+      "file": "thompson-wrap-dusk.jpg"
+    }
+  ],
+  "errors": [],
+  "assets": [
+    [
+      "http://127.0.0.1:8879/data/stream/courier.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/stadium.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/paris-yates.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/lyceum.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/grove-pavilion.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/ventress.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-4_0.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-3_0.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-4_-1.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-4_1.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-3_-1.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-1_-1.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/schools/oxford-intermediate.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-1_0.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/0_-1.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/0_0.glb",
+      200
+    ]
+  ],
+  "targetAssetSHA256": {
+    "-4_0": "0fe0ecd915e23868d5b7be8075e5bab39d02fae2d568076161eec383e5687445",
+    "-1_-1": "c5467be36809c07b173d6ecb69b10fc7b2819d1f0257adce315d3faa20ac2ade"
+  },
+  "gameSHA256": "92837129eb47edc5512460e0aa869c026f86615df0ec8489228afeda1e4126a8",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36",
+  "galleryCollision": {
+    "registeredCount": 10,
+    "shellRetained": true,
+    "posts": [
+      {
+        "xz": [
+          -21.787619499999998,
+          -10.852069
+        ],
+        "registered": true,
+        "blocked": true
+      },
+      {
+        "xz": [
+          -17.49446,
+          -10.011682
+        ],
+        "registered": true,
+        "blocked": true
+      },
+      {
+        "xz": [
+          -13.1227905,
+          -9.155927
+        ],
+        "registered": true,
+        "blocked": true
+      },
+      {
+        "xz": [
+          -8.751121,
+          -8.300172
+        ],
+        "registered": true,
+        "blocked": true
+      },
+      {
+        "xz": [
+          -4.45796125,
+          -7.4597855
+        ],
+        "registered": true,
+        "blocked": true
+      },
+      {
+        "xz": [
+          -3.6516857499999995,
+          -11.00912075
+        ],
+        "registered": true,
+        "blocked": true
+      },
+      {
+        "xz": [
+          -2.92392025,
+          -14.573824000000002
+        ],
+        "registered": true,
+        "blocked": true
+      },
+      {
+        "xz": [
+          -2.1961547500000003,
+          -18.1385275
+        ],
+        "registered": true,
+        "blocked": true
+      },
+      {
+        "xz": [
+          -1.46838925,
+          -21.703231000000002
+        ],
+        "registered": true,
+        "blocked": true
+      },
+      {
+        "xz": [
+          -0.7566262500000001,
+          -25.18955125
+        ],
+        "registered": true,
+        "blocked": true
+      }
+    ],
+    "openings": [
+      {
+        "xz": [
+          -19.641039749999997,
+          -10.4318755
+        ],
+        "walkable": true
+      },
+      {
+        "xz": [
+          -15.30862525,
+          -9.5838045
+        ],
+        "walkable": true
+      },
+      {
+        "xz": [
+          -10.93695575,
+          -8.728049500000001
+        ],
+        "walkable": true
+      },
+      {
+        "xz": [
+          -6.604541125,
+          -7.879978749999999
+        ],
+        "walkable": true
+      },
+      {
+        "xz": [
+          -4.0548234999999995,
+          -9.234453125
+        ],
+        "walkable": true
+      },
+      {
+        "xz": [
+          -3.287803,
+          -12.791472375000001
+        ],
+        "walkable": true
+      },
+      {
+        "xz": [
+          -2.5600375,
+          -16.35617575
+        ],
+        "walkable": true
+      },
+      {
+        "xz": [
+          -1.8322720000000001,
+          -19.92087925
+        ],
+        "walkable": true
+      },
+      {
+        "xz": [
+          -1.11250775,
+          -23.446391125
+        ],
+        "walkable": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "phase": "baseline",
+  "url": "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "views": [
+    {
+      "id": "kennon-east",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1619.5,
+        1.9,
+        234.8
+      ],
+      "look": [
+        -1634.15,
+        5.6,
+        238.4
+      ],
+      "fov": 43,
+      "note": "East window, center crossbar, sill and nearby portico return from walking height.",
+      "eyeWorld": [
+        -1619.5,
+        152.325875,
+        234.8
+      ],
+      "targetWorld": [
+        -1634.15,
+        156.08937500000002,
+        238.4
+      ],
+      "dusk": false,
+      "registeredCount": 31,
+      "groundBelowEye": 150.425875,
+      "cameraRestored": true,
+      "distanceM": 15.548197073937633,
+      "file": "kennon-east-day.jpg"
+    },
+    {
+      "id": "kennon-east",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1619.5,
+        1.9,
+        234.8
+      ],
+      "look": [
+        -1634.15,
+        5.6,
+        238.4
+      ],
+      "fov": 43,
+      "note": "East window, center crossbar, sill and nearby portico return from walking height.",
+      "eyeWorld": [
+        -1619.5,
+        152.325875,
+        234.8
+      ],
+      "targetWorld": [
+        -1634.15,
+        156.08937500000002,
+        238.4
+      ],
+      "dusk": true,
+      "registeredCount": 31,
+      "groundBelowEye": 150.425875,
+      "cameraRestored": true,
+      "distanceM": 15.548197073937633,
+      "file": "kennon-east-dusk.jpg"
+    },
+    {
+      "id": "kennon-south",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1649.1,
+        1.9,
+        264.9
+      ],
+      "look": [
+        -1643.5,
+        5.25,
+        244.8
+      ],
+      "fov": 43,
+      "note": "Approach toward the south portico and central doorway, with both domes above.",
+      "eyeWorld": [
+        -1649.1,
+        149.9215,
+        264.9
+      ],
+      "targetWorld": [
+        -1643.5,
+        155.315375,
+        244.8
+      ],
+      "dusk": false,
+      "registeredCount": 31,
+      "groundBelowEye": 148.0215,
+      "cameraRestored": true,
+      "distanceM": 21.551424257241617,
+      "file": "kennon-south-day.jpg"
+    },
+    {
+      "id": "kennon-south",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1649.1,
+        1.9,
+        264.9
+      ],
+      "look": [
+        -1643.5,
+        5.25,
+        244.8
+      ],
+      "fov": 43,
+      "note": "Approach toward the south portico and central doorway, with both domes above.",
+      "eyeWorld": [
+        -1649.1,
+        149.9215,
+        264.9
+      ],
+      "targetWorld": [
+        -1643.5,
+        155.315375,
+        244.8
+      ],
+      "dusk": true,
+      "registeredCount": 31,
+      "groundBelowEye": 148.0215,
+      "cameraRestored": true,
+      "distanceM": 21.551424257241617,
+      "file": "kennon-south-dusk.jpg"
+    },
+    {
+      "id": "thompson-wrap",
+      "site": "Thompson House",
+      "tile": "-1_-1",
+      "asset": "streets/-1_-1.glb",
+      "focus": [
+        -13,
+        -12
+      ],
+      "eye": [
+        4.5,
+        2.15,
+        5.9
+      ],
+      "look": [
+        -13.5,
+        5.25,
+        -12.6
+      ],
+      "fov": 48,
+      "note": "Courthouse Square corner view of the wraparound gallery and retail bays.",
+      "eyeWorld": [
+        4.5,
+        157.56412500000002,
+        5.9
+      ],
+      "targetWorld": [
+        -13.5,
+        160.370125,
+        -12.6
+      ],
+      "dusk": false,
+      "registeredCount": 50,
+      "groundBelowEye": 155.414125,
+      "cameraRestored": true,
+      "distanceM": 25.963891002698343,
+      "file": "thompson-wrap-day.jpg"
+    },
+    {
+      "id": "thompson-wrap",
+      "site": "Thompson House",
+      "tile": "-1_-1",
+      "asset": "streets/-1_-1.glb",
+      "focus": [
+        -13,
+        -12
+      ],
+      "eye": [
+        4.5,
+        2.15,
+        5.9
+      ],
+      "look": [
+        -13.5,
+        5.25,
+        -12.6
+      ],
+      "fov": 48,
+      "note": "Courthouse Square corner view of the wraparound gallery and retail bays.",
+      "eyeWorld": [
+        4.5,
+        157.56412500000002,
+        5.9
+      ],
+      "targetWorld": [
+        -13.5,
+        160.370125,
+        -12.6
+      ],
+      "dusk": true,
+      "registeredCount": 50,
+      "groundBelowEye": 155.414125,
+      "cameraRestored": true,
+      "distanceM": 25.963891002698343,
+      "file": "thompson-wrap-dusk.jpg"
+    }
+  ],
+  "errors": [],
+  "assets": [
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/stream/courier.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/stadium.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/lyceum.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/grove-pavilion.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/ventress.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/paris-yates.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/streets/-4_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/streets/-3_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/streets/-4_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/streets/-4_1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/streets/-3_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/streets/-1_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/schools/oxford-intermediate.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/streets/-1_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/streets/0_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.3/data/blender/streets/0_0.glb",
+      200
+    ]
+  ],
+  "targetAssetSHA256": {
+    "-4_0": "b083e4f86f3902053e3c3947be99e5bfe6f96fac1d3795e48bd867a7b3d59c99",
+    "-1_-1": "8ae36cee51abe9d36da937a100ba4d72f812d5e809b724e33ce16a0ae147cca9"
+  },
+  "gameSHA256": "6d6f501f74798e57b2587b82f30196cff02fdaf3c3a6fa1012c28d7101e8c1b8",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36"
+}
