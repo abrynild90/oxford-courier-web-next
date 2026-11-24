@@ -1,0 +1,11 @@
+[
+ {"id":"kennon-south","site":"Kennon Observatory","tile":"-4_0","asset":"streets/-4_0.glb","focus":[-1642,246],"eye":[-1650,1.9,270],"look":[-1644,6.0,239],"fov":43,"note":"South portico at walking height, with the copper domes behind it."},
+ {"id":"kennon-domes","site":"Kennon Observatory","tile":"-4_0","asset":"streets/-4_0.glb","focus":[-1642,246],"eye":[-1645,46,163],"look":[-1645,8.7,237],"fov":31,"note":"Elevated approach from the north, clear of the trees that obscure the west dome from the south."},
+ {"id":"kennon-north","site":"Kennon Observatory","tile":"-4_0","asset":"streets/-4_0.glb","focus":[-1642,246],"eye":[-1640,1.9,209],"look":[-1645,5.8,240],"fov":44,"note":"The north entrance and its tall openings from ground level."},
+ {"id":"huddle-parking","site":"Huddle House","tile":"-7_0","asset":"streets/-7_0.glb","focus":[-3537,192],"eye":[-3555,1.9,208],"look":[-3536,2.0,189],"fov":44,"note":"Walking-height parking approach with the diner footprint and wrap glazing."},
+ {"id":"huddle-sign","site":"Huddle House","tile":"-7_0","asset":"streets/-7_0.glb","focus":[-3537,192],"eye":[-3545.5,1.9,200.5],"look":[-3536.3,2.55,194.8],"fov":49,"note":"Close parking-lot angle looking toward the round sign and entrance."},
+ {"id":"lafayette-approach","site":"Lafayette Elementary","tile":"5_2","asset":"schools/lafayette-lower-elementary.glb","focus":[2550,1429],"eye":[2522,2.25,1421],"look":[2549.66,3.7,1429.03],"fov":49,"note":"Walking-height approach on Buddy East Parkway to the west entrance."},
+ {"id":"lafayette-arcade","site":"Lafayette Elementary","tile":"5_2","asset":"schools/lafayette-lower-elementary.glb","focus":[2550,1429],"eye":[2534,1.8,1432.8],"look":[2549.66,3.2,1429.03],"fov":53,"note":"Close walking-height approach to the arch surrounds, curved soffits and recessed glazing."},
+ {"id":"lamar-portal","site":"Lamar Park pavilion","tile":"-6_-3","asset":"parks/lamar-shelter.glb","focus":[-2645,-1037],"eye":[-2629,2.1,-1020],"look":[-2645,2.3,-1038],"fov":47,"note":"Trail approach with the stone portal and open roof edge."},
+ {"id":"lamar-canopy","site":"Lamar Park pavilion","tile":"-6_-3","asset":"parks/lamar-shelter.glb","focus":[-2645,-1037],"eye":[-2640,1.9,-1030.4],"look":[-2647,3.9,-1041.9],"fov":57,"note":"Walking-height view under the exposed steel canopy."}
+]

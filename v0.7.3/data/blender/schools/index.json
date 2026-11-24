@@ -1,0 +1,900 @@
+{
+  "models": [
+    {
+      "id": "oxford-learning-center",
+      "name": "Oxford Learning Center",
+      "file": "schools/oxford-learning-center.glb",
+      "x": -588.32,
+      "z": -313.44,
+      "tile": "-2_-1",
+      "replace": [
+        {
+          "id": 264403534,
+          "tile": "-2_-1",
+          "anchor": [
+            -605.98,
+            -318.13
+          ]
+        }
+      ]
+    },
+    {
+      "id": "central-elementary",
+      "name": "Central Elementary School",
+      "file": "schools/central-elementary.glb",
+      "x": -578.84,
+      "z": -470.88,
+      "tile": "-2_-1",
+      "replace": [
+        {
+          "id": 856515420,
+          "tile": "-2_-1",
+          "anchor": [
+            -621.67,
+            -439.48
+          ]
+        }
+      ],
+      "solids": [
+        {
+          "outer": [
+            [
+              -620.5,
+              -458
+            ],
+            [
+              -551,
+              -433
+            ],
+            [
+              -556.5,
+              -420
+            ],
+            [
+              -625.5,
+              -445
+            ]
+          ],
+          "holes": []
+        }
+      ]
+    },
+    {
+      "id": "oxford-intermediate",
+      "name": "Oxford Intermediate School",
+      "file": "schools/oxford-intermediate.glb",
+      "x": -443.62,
+      "z": -362.03,
+      "tile": "-1_-1",
+      "replace": [
+        {
+          "id": 264403529,
+          "tile": "-1_-1",
+          "anchor": [
+            -457.88,
+            -405.07
+          ]
+        },
+        {
+          "id": 264403530,
+          "tile": "-1_-1",
+          "anchor": [
+            -475.71,
+            -355.39
+          ]
+        },
+        {
+          "id": 680766338,
+          "tile": "-1_-1",
+          "anchor": [
+            -503.23,
+            -425.61
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bramlett-elementary",
+      "name": "Bramlett Elementary School",
+      "file": "schools/bramlett-elementary.glb",
+      "x": 832.26,
+      "z": -148.73,
+      "tile": "1_-1",
+      "replace": [
+        {
+          "id": 317684186,
+          "tile": "1_-1",
+          "anchor": [
+            804.63,
+            -173.79
+          ]
+        },
+        {
+          "id": 317684187,
+          "tile": "1_-1",
+          "anchor": [
+            763.88,
+            -122.07
+          ]
+        },
+        {
+          "id": 1337596599,
+          "tile": "1_-1",
+          "anchor": [
+            737.58,
+            -150.33
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oxford-middle",
+      "name": "Oxford Middle School",
+      "file": "schools/oxford-middle.glb",
+      "x": 1094.78,
+      "z": -122.33,
+      "tile": "2_-1",
+      "replace": [
+        {
+          "id": 190639390,
+          "tile": "2_-1",
+          "anchor": [
+            1035.64,
+            -195.53
+          ]
+        },
+        {
+          "id": 313161895,
+          "tile": "2_-1",
+          "anchor": [
+            1089.58,
+            -236.75
+          ]
+        },
+        {
+          "id": 627885838,
+          "tile": "2_-1",
+          "anchor": [
+            1038.09,
+            -281.93
+          ]
+        },
+        {
+          "id": 627885839,
+          "tile": "2_-1",
+          "anchor": [
+            1131.38,
+            -253.17
+          ]
+        },
+        {
+          "id": 627887066,
+          "tile": "2_-1",
+          "anchor": [
+            1196.58,
+            -76.91
+          ]
+        },
+        {
+          "id": 627887067,
+          "tile": "2_-1",
+          "anchor": [
+            1176.74,
+            -62.03
+          ]
+        },
+        {
+          "id": 627887068,
+          "tile": "2_-1",
+          "anchor": [
+            1260.29,
+            -204.67
+          ]
+        },
+        {
+          "id": 627887069,
+          "tile": "2_-1",
+          "anchor": [
+            1265.32,
+            -185.37
+          ]
+        },
+        {
+          "id": 627887070,
+          "tile": "2_-1",
+          "anchor": [
+            1244.81,
+            -236.46
+          ]
+        },
+        {
+          "id": 1421446170,
+          "tile": "2_-1",
+          "anchor": [
+            1245.16,
+            -324.68
+          ]
+        },
+        {
+          "id": 1421446171,
+          "tile": "2_-1",
+          "anchor": [
+            1152.61,
+            -337.69
+          ]
+        }
+      ],
+      "solids": [
+        {
+          "outer": [
+            [
+              1056.4,
+              -269.4
+            ],
+            [
+              1085.8,
+              -270.8
+            ],
+            [
+              1086.5,
+              -240.8
+            ],
+            [
+              1057.1,
+              -239.5
+            ]
+          ],
+          "holes": []
+        }
+      ]
+    },
+    {
+      "id": "charger-health-and-wellness",
+      "name": "Charger Health and Wellness",
+      "file": "schools/charger-health-and-wellness.glb",
+      "x": 1050.74,
+      "z": -219.14,
+      "tile": "2_-1",
+      "replace": [
+        {
+          "id": 313161531,
+          "tile": "2_-1",
+          "anchor": [
+            1029.79,
+            -225.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "della-davidson",
+      "name": "Della Davidson Elementary School",
+      "file": "schools/della-davidson.glb",
+      "x": 2212.42,
+      "z": -425.59,
+      "tile": "4_-1",
+      "replace": [
+        {
+          "id": 247507070,
+          "tile": "4_-1",
+          "anchor": [
+            2160.89,
+            -505.02
+          ]
+        }
+      ],
+      "solids": [
+        {
+          "outer": [
+            [
+              2237,
+              -383.5
+            ],
+            [
+              2254.5,
+              -374
+            ],
+            [
+              2244.5,
+              -356.3
+            ],
+            [
+              2227,
+              -365.8
+            ]
+          ],
+          "holes": []
+        }
+      ]
+    },
+    {
+      "id": "oxford-early-childhood",
+      "name": "Oxford Early Childhood Center",
+      "file": "schools/oxford-early-childhood.glb",
+      "x": 1904.39,
+      "z": -2241.05,
+      "tile": "3_-5",
+      "replace": [
+        {
+          "id": 598597694,
+          "tile": "3_-5",
+          "anchor": [
+            1855.57,
+            -2266.98
+          ]
+        },
+        {
+          "id": 598597695,
+          "tile": "3_-5",
+          "anchor": [
+            1839.46,
+            -2233.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oxford-high",
+      "name": "Oxford High School",
+      "file": "schools/oxford-high.glb",
+      "x": 2886.15,
+      "z": -686.59,
+      "tile": "5_-2",
+      "replace": [
+        {
+          "id": 598588249,
+          "tile": "5_-2",
+          "anchor": [
+            2796.02,
+            -707.14
+          ]
+        },
+        {
+          "id": 1486533054,
+          "tile": "5_-2",
+          "anchor": [
+            2813.59,
+            -755.13
+          ]
+        },
+        {
+          "id": 1486533056,
+          "tile": "5_-2",
+          "anchor": [
+            2921.72,
+            -756.65
+          ]
+        },
+        {
+          "id": 1243705430,
+          "tile": "5_-2",
+          "anchor": [
+            2752.46,
+            -877.84
+          ]
+        },
+        {
+          "id": 1486533055,
+          "tile": "5_-2",
+          "anchor": [
+            2813.92,
+            -861.63
+          ]
+        },
+        {
+          "id": 1486533131,
+          "tile": "5_-2",
+          "anchor": [
+            2893.68,
+            -806.26
+          ]
+        },
+        {
+          "id": 1486533132,
+          "tile": "5_-2",
+          "anchor": [
+            2904.49,
+            -815.39
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oxford-district-office",
+      "name": "Oxford School District Central Office",
+      "file": "schools/oxford-district-office.glb",
+      "x": 850.44,
+      "z": 4087.25,
+      "tile": "1_7",
+      "replace": [
+        {
+          "id": 599106110,
+          "tile": "1_7",
+          "anchor": [
+            833.5,
+            4084.22
+          ]
+        },
+        {
+          "id": 599106111,
+          "tile": "1_7",
+          "anchor": [
+            876.0,
+            4080.66
+          ]
+        },
+        {
+          "id": 599106112,
+          "tile": "1_7",
+          "anchor": [
+            907.59,
+            4085.14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oxford-district-technology",
+      "name": "Oxford School District Technology Department",
+      "file": "schools/oxford-district-technology.glb",
+      "x": 2392.27,
+      "z": -1922.5,
+      "tile": "4_-4",
+      "replace": [
+        {
+          "id": 598601614,
+          "tile": "4_-4",
+          "anchor": [
+            2385.52,
+            -1911.41
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oxford-district-transportation",
+      "name": "Oxford School District Transportation",
+      "file": "schools/oxford-district-transportation.glb",
+      "x": 460.7,
+      "z": -4469.54,
+      "tile": "0_-9",
+      "replace": [
+        {
+          "id": 599935971,
+          "tile": "0_-9",
+          "anchor": [
+            450.19,
+            -4491.35
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lafayette-lower-elementary",
+      "name": "Lafayette Elementary School",
+      "file": "schools/lafayette-lower-elementary.glb",
+      "x": 2610.38,
+      "z": 1421.72,
+      "tile": "5_2",
+      "replace": [
+        {
+          "id": 856517676,
+          "tile": "5_2",
+          "anchor": [
+            2545.29,
+            1445.03
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lafayette-upper-elementary",
+      "name": "Lafayette Upper Elementary School",
+      "file": "schools/lafayette-upper-elementary.glb",
+      "x": 1709.17,
+      "z": 1848.19,
+      "tile": "3_3",
+      "replace": [
+        {
+          "id": 634377428,
+          "tile": "3_3",
+          "anchor": [
+            1645.95,
+            1882.71
+          ]
+        },
+        {
+          "id": 634377430,
+          "tile": "3_3",
+          "anchor": [
+            1513.43,
+            1844.0
+          ]
+        },
+        {
+          "id": 634377431,
+          "tile": "3_3",
+          "anchor": [
+            1543.52,
+            1910.94
+          ]
+        },
+        {
+          "id": 634377432,
+          "tile": "3_3",
+          "anchor": [
+            1620.95,
+            1918.85
+          ]
+        },
+        {
+          "id": 634377426,
+          "tile": "3_3",
+          "anchor": [
+            1794.69,
+            1836.34
+          ]
+        },
+        {
+          "id": 634377427,
+          "tile": "3_3",
+          "anchor": [
+            1808.92,
+            1815.91
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lafayette-high",
+      "name": "Lafayette High School",
+      "file": "schools/lafayette-high.glb",
+      "x": 1866.82,
+      "z": 1834.7,
+      "tile": "3_3",
+      "replace": [
+        {
+          "id": 634385086,
+          "tile": "3_3",
+          "anchor": [
+            1799.37,
+            1857.4
+          ]
+        },
+        {
+          "id": 634379359,
+          "tile": "3_3",
+          "anchor": [
+            1770.34,
+            1864.8
+          ]
+        },
+        {
+          "id": 634379356,
+          "tile": "3_3",
+          "anchor": [
+            1761.81,
+            1916.51
+          ]
+        },
+        {
+          "id": 634379354,
+          "tile": "3_3",
+          "anchor": [
+            1726.12,
+            1918.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lafayette-middle",
+      "name": "Lafayette Middle School",
+      "file": "schools/lafayette-middle.glb",
+      "x": 1848.2,
+      "z": 1980.51,
+      "tile": "3_3",
+      "replace": [
+        {
+          "id": 634383372,
+          "tile": "3_3",
+          "anchor": [
+            1785.37,
+            2015.86
+          ]
+        },
+        {
+          "id": 634383370,
+          "tile": "3_3",
+          "anchor": [
+            1978.72,
+            1972.16
+          ]
+        },
+        {
+          "id": 1427831069,
+          "tile": "3_3",
+          "anchor": [
+            1794.89,
+            2034.92
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lafayette-learning-center",
+      "name": "Lafayette Learning Center and District Offices",
+      "file": "schools/lafayette-learning-center.glb",
+      "x": 1924.97,
+      "z": 1890.35,
+      "tile": "3_3",
+      "replace": [
+        {
+          "id": 634383371,
+          "tile": "3_3",
+          "anchor": [
+            1900.42,
+            1882.72
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lafayette-athletics-2_3",
+      "name": "Lafayette Schools Athletics",
+      "file": "schools/lafayette-athletics-2_3.glb",
+      "x": 1528.27,
+      "z": 2036.36,
+      "tile": "2_3",
+      "replace": [
+        {
+          "id": 634377429,
+          "tile": "2_3",
+          "anchor": [
+            1493.61,
+            1820.72
+          ]
+        },
+        {
+          "id": 634377437,
+          "tile": "2_3",
+          "anchor": [
+            1505.53,
+            2046.74
+          ]
+        },
+        {
+          "id": 1453972575,
+          "tile": "2_3",
+          "anchor": [
+            1507.25,
+            1897.96
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lafayette-athletics-3_3",
+      "name": "Lafayette Schools Athletics",
+      "file": "schools/lafayette-athletics-3_3.glb",
+      "x": 1538.86,
+      "z": 2007.15,
+      "tile": "3_3",
+      "replace": [
+        {
+          "id": 634377436,
+          "tile": "3_3",
+          "anchor": [
+            1507.95,
+            2006.36
+          ]
+        },
+        {
+          "id": 634377438,
+          "tile": "3_3",
+          "anchor": [
+            1563.2,
+            2029.1
+          ]
+        },
+        {
+          "id": 1468010352,
+          "tile": "3_3",
+          "anchor": [
+            1623.77,
+            2037.1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lafayette-athletics-3_4",
+      "name": "Lafayette Schools Athletics",
+      "file": "schools/lafayette-athletics-3_4.glb",
+      "x": 1571.16,
+      "z": 2053.25,
+      "tile": "3_4",
+      "replace": [
+        {
+          "id": 634377439,
+          "tile": "3_4",
+          "anchor": [
+            1568.13,
+            2075.27
+          ]
+        },
+        {
+          "id": 1421433675,
+          "tile": "3_4",
+          "anchor": [
+            1566.19,
+            2046.42
+          ]
+        },
+        {
+          "id": 1468010353,
+          "tile": "3_4",
+          "anchor": [
+            1585.3,
+            2073.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oxford-lafayette-applied-technology",
+      "name": "Oxford\u2013Lafayette School of Applied Technology",
+      "file": "schools/oxford-lafayette-applied-technology.glb",
+      "x": 112.75,
+      "z": 3263.07,
+      "tile": "0_6",
+      "replace": [
+        {
+          "id": 599102034,
+          "tile": "0_6",
+          "anchor": [
+            53.47,
+            3380.87
+          ]
+        },
+        {
+          "id": 599102035,
+          "tile": "0_6",
+          "anchor": [
+            80.84,
+            3427.08
+          ]
+        },
+        {
+          "id": 599102036,
+          "tile": "0_6",
+          "anchor": [
+            123.98,
+            3401.75
+          ]
+        },
+        {
+          "id": 599102037,
+          "tile": "0_6",
+          "anchor": [
+            122.79,
+            3416.59
+          ]
+        },
+        {
+          "id": 599102038,
+          "tile": "0_6",
+          "anchor": [
+            84.07,
+            3250.3
+          ]
+        },
+        {
+          "id": 599102039,
+          "tile": "0_6",
+          "anchor": [
+            120.99,
+            3294.08
+          ]
+        }
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Willie Price Lab School (Kinard Hall)",
+      "x": -2033.4,
+      "z": -181.1
+    },
+    {
+      "name": "Oxford Learning Center",
+      "x": -574,
+      "z": -317
+    },
+    {
+      "name": "Central Elementary School",
+      "x": -553,
+      "z": -514
+    },
+    {
+      "name": "Oxford Intermediate School",
+      "x": -443.62,
+      "z": -362.03
+    },
+    {
+      "name": "Bramlett Elementary School",
+      "x": 857,
+      "z": -115
+    },
+    {
+      "name": "Oxford Middle School",
+      "x": 1037,
+      "z": -120
+    },
+    {
+      "name": "Charger Health and Wellness",
+      "x": 1044,
+      "z": -227
+    },
+    {
+      "name": "Della Davidson Elementary School",
+      "x": 2183,
+      "z": -427
+    },
+    {
+      "name": "Oxford Early Childhood Center",
+      "x": 1919,
+      "z": -2180
+    },
+    {
+      "name": "Oxford High School",
+      "x": 2883,
+      "z": -663
+    },
+    {
+      "name": "Oxford School District Central Office",
+      "x": 850.44,
+      "z": 4087.25
+    },
+    {
+      "name": "Oxford School District Technology Department",
+      "x": 2392.27,
+      "z": -1922.5
+    },
+    {
+      "name": "Oxford School District Transportation",
+      "x": 460.7,
+      "z": -4469.54
+    },
+    {
+      "name": "Lafayette Elementary School",
+      "x": 2549.66,
+      "z": 1429.03
+    },
+    {
+      "name": "Lafayette Upper Elementary School",
+      "x": 1709,
+      "z": 1808
+    },
+    {
+      "name": "Lafayette High School",
+      "x": 1898,
+      "z": 1797
+    },
+    {
+      "name": "Lafayette Middle School",
+      "x": 1880,
+      "z": 1940
+    },
+    {
+      "name": "Lafayette Learning Center and District Offices",
+      "x": 1923,
+      "z": 1887
+    },
+    {
+      "name": "Oxford\u2013Lafayette School of Applied Technology",
+      "x": 112.75,
+      "z": 3263.07
+    }
+  ]
+}

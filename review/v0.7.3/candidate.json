@@ -1,0 +1,799 @@
+{
+  "phase": "candidate",
+  "url": "http://127.0.0.1:8879/",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "views": [
+    {
+      "id": "kennon-south",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1650,
+        1.9,
+        270
+      ],
+      "look": [
+        -1644,
+        6,
+        239
+      ],
+      "fov": 43,
+      "note": "South portico at walking height, with the copper domes behind it.",
+      "eyeWorld": [
+        -1650,
+        149.85500000000002,
+        270
+      ],
+      "targetWorld": [
+        -1644,
+        156.4425,
+        239
+      ],
+      "dusk": false,
+      "registeredCount": 31,
+      "groundBelowEye": 147.955,
+      "cameraRestored": true,
+      "distanceM": 32.255157048912345,
+      "file": "kennon-south-day.jpg"
+    },
+    {
+      "id": "kennon-south",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1650,
+        1.9,
+        270
+      ],
+      "look": [
+        -1644,
+        6,
+        239
+      ],
+      "fov": 43,
+      "note": "South portico at walking height, with the copper domes behind it.",
+      "eyeWorld": [
+        -1650,
+        149.85500000000002,
+        270
+      ],
+      "targetWorld": [
+        -1644,
+        156.4425,
+        239
+      ],
+      "dusk": true,
+      "registeredCount": 31,
+      "groundBelowEye": 147.955,
+      "cameraRestored": true,
+      "distanceM": 32.255157048912345,
+      "file": "kennon-south-dusk.jpg"
+    },
+    {
+      "id": "kennon-domes",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1645,
+        46,
+        163
+      ],
+      "look": [
+        -1645,
+        8.7,
+        237
+      ],
+      "fov": 31,
+      "note": "Elevated approach from the north, clear of the trees that obscure the west dome from the south.",
+      "eyeWorld": [
+        -1645,
+        201.3625,
+        163
+      ],
+      "targetWorld": [
+        -1645,
+        159.195,
+        237
+      ],
+      "dusk": false,
+      "registeredCount": 31,
+      "groundBelowEye": 155.3625,
+      "cameraRestored": true,
+      "distanceM": 85.17099304487417,
+      "file": "kennon-domes-day.jpg"
+    },
+    {
+      "id": "kennon-domes",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1645,
+        46,
+        163
+      ],
+      "look": [
+        -1645,
+        8.7,
+        237
+      ],
+      "fov": 31,
+      "note": "Elevated approach from the north, clear of the trees that obscure the west dome from the south.",
+      "eyeWorld": [
+        -1645,
+        201.3625,
+        163
+      ],
+      "targetWorld": [
+        -1645,
+        159.195,
+        237
+      ],
+      "dusk": true,
+      "registeredCount": 31,
+      "groundBelowEye": 155.3625,
+      "cameraRestored": true,
+      "distanceM": 85.17099304487417,
+      "file": "kennon-domes-dusk.jpg"
+    },
+    {
+      "id": "kennon-north",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1640,
+        1.9,
+        209
+      ],
+      "look": [
+        -1645,
+        5.8,
+        240
+      ],
+      "fov": 44,
+      "note": "The north entrance and its tall openings from ground level.",
+      "eyeWorld": [
+        -1640,
+        153.60125000000002,
+        209
+      ],
+      "targetWorld": [
+        -1645,
+        156.19750000000002,
+        240
+      ],
+      "dusk": false,
+      "registeredCount": 31,
+      "groundBelowEye": 151.70125000000002,
+      "cameraRestored": true,
+      "distanceM": 31.507784975502485,
+      "file": "kennon-north-day.jpg"
+    },
+    {
+      "id": "kennon-north",
+      "site": "Kennon Observatory",
+      "tile": "-4_0",
+      "asset": "streets/-4_0.glb",
+      "focus": [
+        -1642,
+        246
+      ],
+      "eye": [
+        -1640,
+        1.9,
+        209
+      ],
+      "look": [
+        -1645,
+        5.8,
+        240
+      ],
+      "fov": 44,
+      "note": "The north entrance and its tall openings from ground level.",
+      "eyeWorld": [
+        -1640,
+        153.60125000000002,
+        209
+      ],
+      "targetWorld": [
+        -1645,
+        156.19750000000002,
+        240
+      ],
+      "dusk": true,
+      "registeredCount": 31,
+      "groundBelowEye": 151.70125000000002,
+      "cameraRestored": true,
+      "distanceM": 31.507784975502485,
+      "file": "kennon-north-dusk.jpg"
+    },
+    {
+      "id": "huddle-parking",
+      "site": "Huddle House",
+      "tile": "-7_0",
+      "asset": "streets/-7_0.glb",
+      "focus": [
+        -3537,
+        192
+      ],
+      "eye": [
+        -3555,
+        1.9,
+        208
+      ],
+      "look": [
+        -3536,
+        2,
+        189
+      ],
+      "fov": 44,
+      "note": "Walking-height parking approach with the diner footprint and wrap glazing.",
+      "eyeWorld": [
+        -3555,
+        127.89375000000001,
+        208
+      ],
+      "targetWorld": [
+        -3536,
+        129.6975,
+        189
+      ],
+      "dusk": false,
+      "registeredCount": 28,
+      "groundBelowEye": 125.99375,
+      "cameraRestored": true,
+      "distanceM": 26.930531262165992,
+      "file": "huddle-parking-day.jpg"
+    },
+    {
+      "id": "huddle-parking",
+      "site": "Huddle House",
+      "tile": "-7_0",
+      "asset": "streets/-7_0.glb",
+      "focus": [
+        -3537,
+        192
+      ],
+      "eye": [
+        -3555,
+        1.9,
+        208
+      ],
+      "look": [
+        -3536,
+        2,
+        189
+      ],
+      "fov": 44,
+      "note": "Walking-height parking approach with the diner footprint and wrap glazing.",
+      "eyeWorld": [
+        -3555,
+        127.89375000000001,
+        208
+      ],
+      "targetWorld": [
+        -3536,
+        129.6975,
+        189
+      ],
+      "dusk": true,
+      "registeredCount": 28,
+      "groundBelowEye": 125.99375,
+      "cameraRestored": true,
+      "distanceM": 26.930531262165992,
+      "file": "huddle-parking-dusk.jpg"
+    },
+    {
+      "id": "huddle-sign",
+      "site": "Huddle House",
+      "tile": "-7_0",
+      "asset": "streets/-7_0.glb",
+      "focus": [
+        -3537,
+        192
+      ],
+      "eye": [
+        -3545.5,
+        1.9,
+        200.5
+      ],
+      "look": [
+        -3536.3,
+        2.55,
+        194.8
+      ],
+      "fov": 49,
+      "note": "Close parking-lot angle looking toward the round sign and entrance.",
+      "eyeWorld": [
+        -3545.5,
+        128.7425,
+        200.5
+      ],
+      "targetWorld": [
+        -3536.3,
+        130.086875,
+        194.8
+      ],
+      "dusk": false,
+      "registeredCount": 28,
+      "groundBelowEye": 126.8425,
+      "cameraRestored": true,
+      "distanceM": 10.905839909911638,
+      "file": "huddle-sign-day.jpg"
+    },
+    {
+      "id": "huddle-sign",
+      "site": "Huddle House",
+      "tile": "-7_0",
+      "asset": "streets/-7_0.glb",
+      "focus": [
+        -3537,
+        192
+      ],
+      "eye": [
+        -3545.5,
+        1.9,
+        200.5
+      ],
+      "look": [
+        -3536.3,
+        2.55,
+        194.8
+      ],
+      "fov": 49,
+      "note": "Close parking-lot angle looking toward the round sign and entrance.",
+      "eyeWorld": [
+        -3545.5,
+        128.7425,
+        200.5
+      ],
+      "targetWorld": [
+        -3536.3,
+        130.086875,
+        194.8
+      ],
+      "dusk": true,
+      "registeredCount": 28,
+      "groundBelowEye": 126.8425,
+      "cameraRestored": true,
+      "distanceM": 10.905839909911638,
+      "file": "huddle-sign-dusk.jpg"
+    },
+    {
+      "id": "lafayette-approach",
+      "site": "Lafayette Elementary",
+      "tile": "5_2",
+      "asset": "schools/lafayette-lower-elementary.glb",
+      "focus": [
+        2550,
+        1429
+      ],
+      "eye": [
+        2522,
+        2.25,
+        1421
+      ],
+      "look": [
+        2549.66,
+        3.7,
+        1429.03
+      ],
+      "fov": 49,
+      "note": "Walking-height approach on Buddy East Parkway to the west entrance.",
+      "eyeWorld": [
+        2522,
+        151.23125000000002,
+        1421
+      ],
+      "targetWorld": [
+        2549.66,
+        153.54786249999998,
+        1429.03
+      ],
+      "dusk": false,
+      "registeredCount": 1,
+      "groundBelowEye": 148.98125000000002,
+      "cameraRestored": true,
+      "distanceM": 28.895037523338637,
+      "file": "lafayette-approach-day.jpg"
+    },
+    {
+      "id": "lafayette-approach",
+      "site": "Lafayette Elementary",
+      "tile": "5_2",
+      "asset": "schools/lafayette-lower-elementary.glb",
+      "focus": [
+        2550,
+        1429
+      ],
+      "eye": [
+        2522,
+        2.25,
+        1421
+      ],
+      "look": [
+        2549.66,
+        3.7,
+        1429.03
+      ],
+      "fov": 49,
+      "note": "Walking-height approach on Buddy East Parkway to the west entrance.",
+      "eyeWorld": [
+        2522,
+        151.23125000000002,
+        1421
+      ],
+      "targetWorld": [
+        2549.66,
+        153.54786249999998,
+        1429.03
+      ],
+      "dusk": true,
+      "registeredCount": 1,
+      "groundBelowEye": 148.98125000000002,
+      "cameraRestored": true,
+      "distanceM": 28.895037523338637,
+      "file": "lafayette-approach-dusk.jpg"
+    },
+    {
+      "id": "lafayette-arcade",
+      "site": "Lafayette Elementary",
+      "tile": "5_2",
+      "asset": "schools/lafayette-lower-elementary.glb",
+      "focus": [
+        2550,
+        1429
+      ],
+      "eye": [
+        2534,
+        1.8,
+        1432.8
+      ],
+      "look": [
+        2549.66,
+        3.2,
+        1429.03
+      ],
+      "fov": 53,
+      "note": "Close walking-height approach to the arch surrounds, curved soffits and recessed glazing.",
+      "eyeWorld": [
+        2534,
+        151.97250000000003,
+        1432.8
+      ],
+      "targetWorld": [
+        2549.66,
+        153.04786249999998,
+        1429.03
+      ],
+      "dusk": false,
+      "registeredCount": 1,
+      "groundBelowEye": 150.1725,
+      "cameraRestored": true,
+      "distanceM": 16.143261891773964,
+      "file": "lafayette-arcade-day.jpg"
+    },
+    {
+      "id": "lafayette-arcade",
+      "site": "Lafayette Elementary",
+      "tile": "5_2",
+      "asset": "schools/lafayette-lower-elementary.glb",
+      "focus": [
+        2550,
+        1429
+      ],
+      "eye": [
+        2534,
+        1.8,
+        1432.8
+      ],
+      "look": [
+        2549.66,
+        3.2,
+        1429.03
+      ],
+      "fov": 53,
+      "note": "Close walking-height approach to the arch surrounds, curved soffits and recessed glazing.",
+      "eyeWorld": [
+        2534,
+        151.97250000000003,
+        1432.8
+      ],
+      "targetWorld": [
+        2549.66,
+        153.04786249999998,
+        1429.03
+      ],
+      "dusk": true,
+      "registeredCount": 1,
+      "groundBelowEye": 150.1725,
+      "cameraRestored": true,
+      "distanceM": 16.143261891773964,
+      "file": "lafayette-arcade-dusk.jpg"
+    },
+    {
+      "id": "lamar-portal",
+      "site": "Lamar Park pavilion",
+      "tile": "-6_-3",
+      "asset": "parks/lamar-shelter.glb",
+      "focus": [
+        -2645,
+        -1037
+      ],
+      "eye": [
+        -2629,
+        2.1,
+        -1020
+      ],
+      "look": [
+        -2645,
+        2.3,
+        -1038
+      ],
+      "fov": 47,
+      "note": "Trail approach with the stone portal and open roof edge.",
+      "eyeWorld": [
+        -2629,
+        118.29249999999999,
+        -1020
+      ],
+      "targetWorld": [
+        -2645,
+        118.56625,
+        -1038
+      ],
+      "dusk": false,
+      "registeredCount": 1,
+      "groundBelowEye": 116.1925,
+      "cameraRestored": true,
+      "distanceM": 24.084744944933504,
+      "file": "lamar-portal-day.jpg"
+    },
+    {
+      "id": "lamar-portal",
+      "site": "Lamar Park pavilion",
+      "tile": "-6_-3",
+      "asset": "parks/lamar-shelter.glb",
+      "focus": [
+        -2645,
+        -1037
+      ],
+      "eye": [
+        -2629,
+        2.1,
+        -1020
+      ],
+      "look": [
+        -2645,
+        2.3,
+        -1038
+      ],
+      "fov": 47,
+      "note": "Trail approach with the stone portal and open roof edge.",
+      "eyeWorld": [
+        -2629,
+        118.29249999999999,
+        -1020
+      ],
+      "targetWorld": [
+        -2645,
+        118.56625,
+        -1038
+      ],
+      "dusk": true,
+      "registeredCount": 1,
+      "groundBelowEye": 116.1925,
+      "cameraRestored": true,
+      "distanceM": 24.084744944933504,
+      "file": "lamar-portal-dusk.jpg"
+    },
+    {
+      "id": "lamar-canopy",
+      "site": "Lamar Park pavilion",
+      "tile": "-6_-3",
+      "asset": "parks/lamar-shelter.glb",
+      "focus": [
+        -2645,
+        -1037
+      ],
+      "eye": [
+        -2640,
+        1.9,
+        -1030.4
+      ],
+      "look": [
+        -2647,
+        3.9,
+        -1041.9
+      ],
+      "fov": 57,
+      "note": "Walking-height view under the exposed steel canopy.",
+      "eyeWorld": [
+        -2640,
+        118.156,
+        -1030.4
+      ],
+      "targetWorld": [
+        -2647,
+        120.12150000000003,
+        -1041.9
+      ],
+      "dusk": false,
+      "registeredCount": 1,
+      "groundBelowEye": 116.256,
+      "cameraRestored": true,
+      "distanceM": 13.605630828814961,
+      "file": "lamar-canopy-day.jpg"
+    },
+    {
+      "id": "lamar-canopy",
+      "site": "Lamar Park pavilion",
+      "tile": "-6_-3",
+      "asset": "parks/lamar-shelter.glb",
+      "focus": [
+        -2645,
+        -1037
+      ],
+      "eye": [
+        -2640,
+        1.9,
+        -1030.4
+      ],
+      "look": [
+        -2647,
+        3.9,
+        -1041.9
+      ],
+      "fov": 57,
+      "note": "Walking-height view under the exposed steel canopy.",
+      "eyeWorld": [
+        -2640,
+        118.156,
+        -1030.4
+      ],
+      "targetWorld": [
+        -2647,
+        120.12150000000003,
+        -1041.9
+      ],
+      "dusk": true,
+      "registeredCount": 1,
+      "groundBelowEye": 116.256,
+      "cameraRestored": true,
+      "distanceM": 13.605630828814961,
+      "file": "lamar-canopy-dusk.jpg"
+    }
+  ],
+  "errors": [],
+  "assets": [
+    [
+      "http://127.0.0.1:8879/data/stream/courier.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/stadium.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/lyceum.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/paris-yates.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/grove-pavilion.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/ventress.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-4_0.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-3_0.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-4_-1.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-4_1.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-3_-1.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-7_0.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-8_0.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-7_-1.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/schools/lafayette-lower-elementary.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/parks/lamar-shelter.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/parks/lamar-garden.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/parks/lamar-lakeside.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-6_-2.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/parks/lamar-east.glb",
+      200
+    ],
+    [
+      "http://127.0.0.1:8879/data/blender/streets/-5_-2.glb",
+      200
+    ]
+  ],
+  "gameSHA256": "6d6f501f74798e57b2587b82f30196cff02fdaf3c3a6fa1012c28d7101e8c1b8",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36"
+}
